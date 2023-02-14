@@ -1,5 +1,5 @@
 <script lang="ts">
-	import Card from '$lib/components/design-system/Card.svelte';
+  import Card from '$lib/components/design-system/Card.svelte';
 </script>
 
 <h1>Welcome to SvelteKit</h1>

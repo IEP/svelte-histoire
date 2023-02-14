@@ -2,9 +2,9 @@ import { defineConfig } from 'histoire';
 import { HstSvelte } from '@histoire/plugin-svelte';
 
 export default defineConfig({
-	plugins: [HstSvelte()],
-	theme: {
-		defaultColorScheme: 'light',
-		hideColorSchemeSwitch: true
-	}
+  plugins: [HstSvelte()],
+  theme: {
+    defaultColorScheme: 'light',
+    hideColorSchemeSwitch: true
+  }
 });
