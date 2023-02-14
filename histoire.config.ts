@@ -6,5 +6,6 @@ export default defineConfig({
   theme: {
     defaultColorScheme: 'light',
     hideColorSchemeSwitch: true
-  }
+  },
+  setupFile: '/src/histoire.setup.ts'
 });
